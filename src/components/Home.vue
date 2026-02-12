@@ -67,11 +67,11 @@ const userName = ref(import.meta.env.VITE_APP_USER_NAME);
 const descriptionElement = ref(null);
 
 const predefinedDescriptions = [
-  "你好鸭，欢迎来到我的主页！！",
-  "随时可以联系我，期待与你交流。",
-  "愿你历尽千帆，归来仍是少年。",
-  "梦想还是要有的，万一实现了呢？",
-  "I hope you have a happy day every day."
+  "先生、人生相談です。",
+  "この先どうなら楽ですか。",
+  "そんなの誰もわかりはしないよなんて言われますか。",
+  "ほら、苦しさなんて欲しいわけない。",
+  "何もしないで生きていたい。"
 ];
 
 let typedInstance = null;
@@ -177,7 +177,7 @@ onMounted(() => {
       overflow: hidden;
 
       &::before {
-        content: "在线中";
+        content: "在線中";
         color: #00c800;
         opacity: 0;
         transition: opacity 0.3s ease-in-out, color 0.1s ease-in-out;
