@@ -3,7 +3,7 @@
     <div class="about-modal">
       <div class="about-modal-content">
         <div class="tech-stack">
-          <h3>使用的技术栈</h3>
+          <h3>使用的技術堆叠</h3>
           <ul class="tech-list">
             <li v-for="tech in techStack" :key="tech.name" :class="['tech-item', tech.name.toLowerCase()]">
               <i :class="tech.icon"></i>
@@ -12,7 +12,7 @@
           </ul>
         </div>
         <div class="github-info">
-          <h3>开源地址</h3>
+          <h3>開源位址</h3>
           <a href="https://github.com/JLinMr/Home-Vue" target="_blank" class="github-link">
             <i class="fab fa-github"></i> Github
           </a>
@@ -60,8 +60,8 @@ const fetchCommits = async () => {
       date: new Date(commit.commit.author.date).toLocaleDateString()
     }));
   } catch (error) {
-    console.error('获取更新信息失败', error);
-    lastUpdates.value = [{ message: '无法获取更新信息', date: '' }];
+    console.error('獲取更新訊息失敗', error);
+    lastUpdates.value = [{ message: '無法獲取更新訊息', date: '' }];
   } finally {
     loading.value = false;
   }
