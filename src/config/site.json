@@ -1,32 +1,32 @@
 [
   {
-    "name": "博客",
-    "url": "https://blog.bsgun.cn",
-    "icon": "fa fa-blog"
+    "name": "宇宙",
+    "url": "https://vndb.org/v34",
+    "icon": "fa-solid fa-earth-americas"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
+    "name": "大海",
+    "url": "https://vndb.org/v10",
+    "icon": "fa-solid fa-water"
   },
   {
-    "name": "图床",
-    "url": "https://dev.bsgun.cn",
-    "icon": "fa fa-image"
+    "name": "天空",
+    "url": "https://vndb.org/v1194",
+    "icon": "fa-regular fa-cloud"
   },
   {
-    "name": "封面",
-    "url": "https://cover.bsgun.cn",
-    "icon": "fa fa-panorama"
+    "name": "音樂",
+    "url": "https://music.163.com/#/user/home?id=529886885",
+    "icon": "fa-solid fa-headphones"
   },
   {
-    "name": "监测",
-    "url": "https://status.bsgun.cn",
-    "icon": "fa fa-chart-line"
+    "name": "酒精",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC",
+    "icon": "fa-solid fa-martini-glass"
   },
   {
-    "name": "图标",
-    "url": "https://icon.bsgun.cn/",
-    "icon": "fa fa-icons"
+    "name": "煙草",
+    "url": "https://www.anadf.com/images/item/3211051013_00M.jpg",
+    "icon": "fa-solid fa-smoking"
   }
 ]
