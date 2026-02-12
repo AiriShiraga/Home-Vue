@@ -26,7 +26,7 @@
       </template>
       <span class="contact-item" @click="toggleDarkMode" :style="{ '--hover-color': isDarkMode ? '#ffcc00' : '#666' }">
         <i :class="darkModeIconClass"></i>
-        <span class="tooltip">{{ isDarkMode ? '浅色' : '深色' }}</span>
+        <span class="tooltip">{{ isDarkMode ? '淺色' : '深色' }}</span>
       </span>
     </div>
     <Website /> 
