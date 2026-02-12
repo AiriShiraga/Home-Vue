@@ -6,21 +6,21 @@
     "hoverColor": "#e78b0a"
   },
   {
-    "type": "Github",
-    "icon": "fab fa-github",
-    "url": "https://github.com/JLinmr",
+    "type": "Douyin",
+    "icon": "fab fa-tiktok",
+    "url": "https://v.douyin.com/3-whj9F1BlE/",
     "hoverColor": "#6500fc"
   },
   {
-    "type": "支付宝",
-    "icon": "fab fa-alipay",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
+    "type": "Steam",
+    "icon": "fa-brands fa-steam",
+    "url": "https://steamcommunity.com/profiles/76561198983721870/",
     "hoverColor": "#007aff"
   },
   {
-    "type": "微信",
-    "icon": "fab fa-weixin",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
+    "type": "X",
+    "icon": "fa-brands fa-x-twitter",
+    "url": "https://x.com/KamiyamaShiki",
     "hoverColor": "#247700"
   }
 ]
